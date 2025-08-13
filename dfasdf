@@ -1,0 +1,42 @@
+[33mcommit de628bf78d6d62c101a0f1eb7cc0e1ad22b3cd6b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: amerinan <carpediem.ck@gmail.com>
+Date:   Tue Aug 12 14:55:31 2025 -0400
+
+    G: edit titles.md
+
+[33mcommit 5356f218013dada948b56536b06f25aeb2b6eee2[m
+Merge: fce5712 8c249e6
+Author: amerinan <carpediem.ck@gmail.com>
+Date:   Tue Aug 12 14:47:33 2025 -0400
+
+    F: Merge branch 'add_classics'
+
+[33mcommit fce5712820e71e21561c69dec22bd269c8e7ff1a[m
+Author: amerinan <carpediem.ck@gmail.com>
+Date:   Tue Aug 12 14:40:47 2025 -0400
+
+    E: Edit of contents.md
+
+[33mcommit 8c249e6341d858f5a8101ed49fc2b7d8766b0561[m
+Author: amerinan <carpediem.ck@gmail.com>
+Date:   Tue Aug 12 14:27:22 2025 -0400
+
+    D: add classics.csv
+
+[33mcommit 4d3149d64a7d4d5f7dbd30f7e5db19ffd3984f5b[m
+Author: amerinan <carpediem.ck@gmail.com>
+Date:   Tue Aug 12 10:32:19 2025 -0400
+
+    C: add quotes
+
+[33mcommit 65554275774f3343f50462e18e0dfc2199bdcf7b[m
+Author: amerinan <carpediem.ck@gmail.com>
+Date:   Tue Aug 12 10:20:55 2025 -0400
+
+    B: add titles
+
+[33mcommit 7aebdee63771a048304050cba4df1aecd114235c[m
+Author: amerinan <carpediem.ck@gmail.com>
+Date:   Tue Aug 12 09:51:58 2025 -0400
+
+    A: add contents.md
